@@ -1,5 +1,5 @@
 {
-    "name": "Kpeamop/test_uniteller",
+    "name": "kpeamop/test_uniteller",
     "type": "project",
     "require": {
         "phpunit/phpunit": "~8.0"
